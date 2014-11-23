@@ -40,3 +40,5 @@ gem 'spring',        group: :development
 
 
 gem 'jquery-ui-rails'
+
+gem 'will_paginate', '~> 3.0'
